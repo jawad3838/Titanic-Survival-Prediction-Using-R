@@ -30,6 +30,7 @@ The dataset is already split into training and testing sets. The Survival attrib
 3 different models were used to predict the survival of passengers on the RMS Titanic. The performance of each of these models is shown below via confusion matrix
 
 * Decision Tree
+
 The generated tree using "fancyRpartPlot" is shown below:
 
 ![](https://github.com/jawad3838/Titanic-Survival-Prediction-Using-R/blob/master/screenshots/DecisionTree.PNG)
