@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-Using-R
+# Titanic-Survival-Prediction
 Predicting the survival of passengers on RMS Titanic using information about the passengers.
 
 ## Pre-requisites
